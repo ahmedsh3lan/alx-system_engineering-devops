@@ -5,6 +5,6 @@ package { 'flask':
   provider => 'pip3',   # Use pip3 as the provider
 }
 package { 'werkzeug':
-  ensure   => '2.1.0',
+  ensure   => '2.1.1',
   provider => 'pip3',   
 }
