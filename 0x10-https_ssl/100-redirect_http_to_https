@@ -47,5 +47,5 @@ frontend ahmedkona-frontend-https
 
 backend ahmedkona-backend
         balance roundrobin
-        server 151666-web-01 100.25.190.21:80 check
-        server 151666-web-02 54.160.77.90:80 check
+        server 513031-web-01 100.26.230.147:80 check
+        server 513031-web-02 52.91.122.111:80 check
