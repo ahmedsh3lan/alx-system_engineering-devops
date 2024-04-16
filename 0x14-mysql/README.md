@@ -1,3 +1,3 @@
-# Install MYSQL
+#MYSQL
 
-Install Mysql Server on both servers
+Install Mysql Server on both my webservers
